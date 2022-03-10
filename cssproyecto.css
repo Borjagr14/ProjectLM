@@ -1,0 +1,55 @@
+h1{
+	text-align: center;
+	color: #E5E530;
+	font-size: 80px
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 40px;
+  padding: 18px;
+  overflow: hidden;
+  background-color: #E5E530;
+}
+
+li {
+  float: left;
+  margin-right: 110px;
+  margin-left: 110px;
+  color: #000000;
+  font-size: 25px
+}
+
+img{
+	margin-right: 225px;
+  	margin-left: 225px;
+ 	max-height: 1150px;
+ 	max-width: 1150px;
+}
+
+p{
+	margin-right: 650px;
+ 	margin-left: 650px;
+  	color: #3974B0;
+  	font-size: 25px
+}
+
+h3{
+	font-size: 15px;
+	color:#918B8B;
+	font-size: 25px
+}
+
+a{
+	color: white;
+}
+
+img{
+	background-image: center;
+}
+
+body{
+	background: #000 url(fondo.jpg);
+	font-family: 'Bebas Neue', cursive;
+}

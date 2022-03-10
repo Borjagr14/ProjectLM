@@ -1,0 +1,32 @@
+h1{
+	text-align: center;
+	color: #3974B0;
+	font-family: cooper black;
+	font-size: 65px
+}
+
+h2{
+	color: #3974B0;
+	font-size: 35px;
+	font-family: Berlin Sans FB;
+
+}
+
+li{
+	font-size: 25px;
+	font-family: Berlin Sans FB;
+
+
+}
+
+a{
+	color: red;
+	font-size: 50px;
+	font-family: Berlin Sans FB;
+}
+
+img{
+	margin-left: 355px;
+	float: left;
+}
+
